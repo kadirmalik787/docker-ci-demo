@@ -18,5 +18,5 @@ jobs:
 
       - name: Build & Push Docker image
         run: |
-          docker build -t kadirmalik/myapp:latest .
-          docker push kadirmalik/myapp:latest
+          docker build -t kadirmalik457/myapp:latest .
+          docker push kadirmalik457/myapp:latest
